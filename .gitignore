@@ -1,0 +1,6 @@
+zundaserver/
+test/
+**/__pycache__/
+test.py
+*.py[cod]
+.DS_Store
